@@ -46,3 +46,13 @@ group :development do
   gem 'spring'
 end
 
+
+gem 'bootstrap-sass'
+gem 'devise'
+gem 'devise-i18n'
+
+group :development do
+  gem 'rails_apps_pages'
+  gem 'rails_layout'
+end
+
